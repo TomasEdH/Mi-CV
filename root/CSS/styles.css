@@ -1,0 +1,71 @@
+
+.datos{
+    font-family: 'Times New Roman';
+    line-height: 23px;
+}
+.datos-generales {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 6px;
+}
+
+.cabeza-pagina {
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: #005677;
+    font-size: 15px;
+    letter-spacing: 10px;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    letter-spacing: 10px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 90%;
+    color: #fff;
+    background-color: #005677;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    
+}
+.sobre-mi {
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #C4C4C4;
+    color: #005677;
+}
+.datos-viñetas {
+    list-style: none; 
+
+}
+.sub {
+    font-weight: bold;
+    
+}
+.styletypo {
+    font-weight: bold;
+}
+
+.espacio-linea {
+    margin-left: 77px;
+}
+
+ul {
+    line-height: 10px;
+}
+
+.logos { width: 22px;
+    height: 22px;
+    left: 778px;
+    top: 996px;
+
+}
+
